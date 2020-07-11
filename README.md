@@ -1,9 +1,11 @@
 # AirQualityProject
 
 •	We began with the question, “How have COVID-19 lockdowns impacted pollution?”
+
 •	After looking at several other potential proxies for pollution (waste, energy use, and water) we settled on using the Air Quality Index (AQI)
     o	The AQI was clearly the best data set to use, as it is global and measured multiple times a day
     o	We pulled our data from the Air Quality Open Data Platform
+    
 •	Research questions:
     o	What is the best way to measure air quality and how it changed during COVID-19 lockdowns?
     o	Which of the cities examined show the largest and least reduction in PM2.5 during COVID-19 lockdown dates?
