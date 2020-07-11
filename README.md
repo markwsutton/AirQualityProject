@@ -17,7 +17,7 @@ After looking at several other potential proxies for pollution (waste, energy us
     3)	In addition to 2020 data we took data from the past three years in order to create a baseline  
     4)	We cleaned the data, removing extraneous information from CSVs and selecting for O3 and PM2.5  
         - We used PM2.5 and O3 because of the five pollutants captured in the AQI, they are the most frequently measured and have the most data associated with them  
-        - Because the AQI is not a linear measurement of pollutants, we chose to reverse engineer the scores into units of measurement for O3 and PM2.5  
+        - Because the AQI is not a linear measurement of pollutants, we chose to convert the scores into units of measurement for O3 and PM2.5  
         - We looked at lockdown dates in each of the 8 cities
     5)	Merged the average medians of past three years to create a baseline to compare against  
 
