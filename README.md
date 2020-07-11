@@ -4,9 +4,9 @@
 
 •	After looking at several other potential proxies for pollution (waste, energy use, and water) we settled on using the Air Quality Index (AQI)
 
-    - The AQI was clearly the best data set to use, as it is global and measured multiple times a day
+   o   The AQI was clearly the best data set to use, as it is global and measured multiple times a day
     
-    - We pulled our data from the Air Quality Open Data Platform
+   o   We pulled our data from the Air Quality Open Data Platform
     
 •	Research questions:
     o	What is the best way to measure air quality and how it changed during COVID-19 lockdowns?
