@@ -34,4 +34,4 @@ https://aqicn.org/data-platform/covid19/
         - Resources includes the CSV files we outputted from datacleaning, and other data that we found in our analyses and used for graphs    
         - One Jupyter Notebook for each city, and another general analysis file  
         - The PDF of our final presentation  
-    2) Within Datacleaning, we have the Jupyter Notebooks that show the datacleaing, the conversion of data from index, and the output CSVs for each year
+    2) Within Datacleaning, we have the Jupyter Notebooks that show the datacleaning, the conversion of data from index, and the output CSVs for each year
