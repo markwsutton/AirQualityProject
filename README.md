@@ -19,10 +19,12 @@ Methodology
         	We used PM2.5 and O3 because of the five pollutants captured in the AQI, they are the most frequently measured and have the most data       associated with them
         	Since countries don’t all use the same index, and because the AQI is not a linear measurement of pollutants, we had to reverse engineer the scores into units of measurement for O3 and PM2.5
     o	Merged the average medians of past three years to create a baseline to compare against
-•	Insights and Observations
-    o	AQI is not a linearly related to measurements
-    o	Data suggests that cities major lock down had more reduction of PM2.5, and cities with less strict lockdown had no change or even increases 
-    o	The correlation of PM2.5 vs O3 is inverse -- more sun actually increases O3 production because it is a secondary pollutant
-    o	Other important factors included the Saharan Dust Storm which reached both Houston and Jacksonville, spiking their PM2.5 levels
+
+
+Insights and Observations
+    1)	AQI is not a linearly related to measurements
+    2)	Data suggests that cities major lock down had more reduction of PM2.5, and cities with less strict lockdown had no change or even increases 
+    3)	The correlation of PM2.5 vs O3 is inverse -- more sun actually increases O3 production because it is a secondary pollutant
+    4)	Other important factors included the Saharan Dust Storm which reached both Houston and Jacksonville, spiking their PM2.5 levels
 
 
