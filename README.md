@@ -25,7 +25,7 @@ https://aqicn.org/data-platform/covid19/
 
 **Insights and Observations:**   
     1)	AQI is not a linearly related to measurements  
-    2)	Data suggests that cities major lock down had more reduction of PM2.5, and cities with less strict lockdown had no change or even increases   
+    2)	Wuhan and New Delhi had the largest reductions in air pollution, and Houston and Jacksonville had the least reductions (actually increases) in air pollution   
     3)	The correlation of PM2.5 vs O3 is inverse -- more sun actually increases O3 production because it is a secondary pollutant  
     4)	Other important factors included the Saharan Dust Storm which reached both Houston and Jacksonville, spiking their PM2.5 levels  
 
