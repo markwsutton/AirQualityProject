@@ -10,7 +10,7 @@ Research questions:
     3)  Looking at different types of pollutants (PM2.5 vs. O3) -- are the patterns consistent, or not, for each city?
     4)  Were there any other major events or factors that influenced air quality during the time period studied?
 
-Methodology
+Methodology:
     1)	Selected nine cities that we thought would tell an interesting story given the dynamics of pollution/COVID-19 policies
         	New York, LA, Houston, Jacksonville, Shanghai, Beijing, Wuhan, New Delhi
     2)	First we downloaded CSV files from the open data platform
@@ -21,7 +21,7 @@ Methodology
     o	Merged the average medians of past three years to create a baseline to compare against
 
 
-Insights and Observations
+Insights and Observations:
     1)	AQI is not a linearly related to measurements
     2)	Data suggests that cities major lock down had more reduction of PM2.5, and cities with less strict lockdown had no change or even increases 
     3)	The correlation of PM2.5 vs O3 is inverse -- more sun actually increases O3 production because it is a secondary pollutant
