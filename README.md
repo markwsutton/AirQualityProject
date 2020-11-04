@@ -35,3 +35,10 @@ https://aqicn.org/data-platform/covid19/
         - One Jupyter Notebook for each city, and another general analysis file  
         - The PDF of our final presentation  
     2) Within Datacleaning, we have the Jupyter Notebooks that show the datacleaning, the conversion of data from index, and the output CSVs for each year
+    
+Images from presentation:    
+
+![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/1-AQI.png)
+![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/2a-AQI.png)
+![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/3-AQI.png)
+![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/4-AQI.png)
