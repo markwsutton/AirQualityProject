@@ -1,4 +1,4 @@
-# Air Quality
+# Examining Effects of Covid Shutdowns on Air Quality
 
 We began with the question, “How have COVID-19 lockdowns impacted pollution?”
 
