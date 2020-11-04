@@ -38,7 +38,8 @@ https://aqicn.org/data-platform/covid19/
     
 Images from presentation:    
 
-![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/1-AQI.png)
-![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/2a-AQI.png)
-![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/3-AQI.png)
-![Image](https://github.com/markwsutton/Citibike-Analysis-Tableau/blob/main/images/4-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/1-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2b-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2c-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/3-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/4-AQI.png)
