@@ -43,3 +43,7 @@ Images from presentation:
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2c-AQI.png)
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/3-AQI.png)
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/4-AQI.png)
+
+Sample code from AirQualityProject/Datacleaning/Compile 2019 AQI Data.ipynb:
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/ETL2.png)
+
