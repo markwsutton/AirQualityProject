@@ -2,7 +2,7 @@
 
 We began with the question, “How have COVID-19 lockdowns impacted pollution?”
 
-After looking at several other potential proxies for pollution (waste, energy use, and water) we settled on using the Air Quality Index (AQI). The AQI was clearly the best data set to use, as it is global and measured multiple times a day. We pulled our data from the Air Quality Open Data Platform's Worldwide COVID-19 dataset:  
+After looking at several other potential proxies for pollution (waste, energy use, and water) we settled on using the Air Quality Index (AQI). The AQI was clearly the best data set to use, as it is global and measured multiple times a day. We performed ETL on data from the Air Quality Open Data Platform's Worldwide COVID-19 dataset:  
 https://aqicn.org/data-platform/covid19/
     
 **Research questions:**  
@@ -14,13 +14,13 @@ https://aqicn.org/data-platform/covid19/
 **Methodology:**  
     1)	Selected eight cities that we thought would tell an interesting story given the dynamics of pollution/COVID-19 policies  
         - New York, LA, Houston, Jacksonville, Shanghai, Beijing, Wuhan, New Delhi  
-    2)	First we downloaded 7 CSV files from the open data platform  
+    2)	ETL - Extract: First we downloaded 7 CSV files from the open data platform  
     3)	In addition to 2020 data we took data from the past three years in order to create a baseline  
-    4)	We cleaned the data, removing extraneous information from CSVs and selecting for O3 and PM2.5  
+    4)	Transform: We cleaned the data, removing extraneous information from CSVs and selecting for O3 and PM2.5  
         - We used PM2.5 and O3 because of the five pollutants captured in the AQI, they are the most frequently measured and have the most data associated with them  
         - Because the AQI is not a linear measurement of pollutants, we chose to convert the scores into units of measurement for O3 and PM2.5  
         - We looked at lockdown dates in each of the 8 cities  
-    5)	Merged the average medians of past three years to create a baseline to compare against  
+    5)	Load: Merged the average medians of past three years to create a baseline to compare against, merged data into two csv files  
 
 
 **Insights and Observations:**   
