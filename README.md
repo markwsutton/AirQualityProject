@@ -42,7 +42,7 @@ Images from presentation:
 
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/1-AQI.png)
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2b-AQI.png)
-![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2c-AQI.png)
+![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/2d-AQI.png)
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/3-AQI.png)
 ![Image](https://github.com/markwsutton/AirQualityProject/blob/master/images/4-AQI.png)
 
