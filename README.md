@@ -2,6 +2,8 @@
 
 We began with the question, “How have COVID-19 lockdowns impacted air pollution?”
 
+Link to presentation: https://docs.google.com/presentation/d/1i2-I9itglB7lVw1R1AGdNH42KgBan_CmHe9zbOx83w0/edit?usp=sharing
+
 After looking at several other potential proxies for pollution (waste, energy use, and water) we settled on using the Air Quality Index (AQI). The AQI was clearly the best data set to use, as it is global and measured multiple times a day. We performed ETL on data from the Air Quality Open Data Platform's Worldwide COVID-19 dataset:  
 https://aqicn.org/data-platform/covid19/
     
